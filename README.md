@@ -2,6 +2,7 @@
 
 Ever wondered why your health insurance premium hits harder than Monday morning? 👀  
 **PreMediq** is an intelligent machine learning app that predicts your health insurance premium based on key factors like age, BMI, smoking habits, and more. Bye guesswork, hello data.
+link : https://premediq01.streamlit.app/
 
 ## 🚀 Features
 
